@@ -7,6 +7,7 @@ public class GitRunner {
 		//work
 		System.out.println("Yay, its a fixed");
 		System.out.println("Stuff");
+		System.out.println("Bug fixx");
 	}
 
 }
