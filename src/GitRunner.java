@@ -6,6 +6,7 @@ public class GitRunner {
 		System.out.println("Fix Alex's life");
 		//work
 		System.out.println("Yay, its a fixed");
+		System.out.println("Stuff");
 	}
 
 }
