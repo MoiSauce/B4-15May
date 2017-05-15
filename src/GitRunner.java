@@ -5,6 +5,7 @@ public class GitRunner {
 		System.out.println("Initial Builf - new project, yeah!");
 		System.out.println("Fix Alex's life");
 		//work
+		System.out.println("Yay, its a fixed");
 	}
 
 }
